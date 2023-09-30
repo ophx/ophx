@@ -15,3 +15,6 @@ HTML, CSS, Tailwind, NextJS, ReactJS, Python, Go, Java, TypeScript, JavaScript, 
 
 ## 📊 GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=ophx&show_icons=true&theme=transparent)
+
+## 🔗 Links
+[![](https://dcbadge.vercel.app/api/server/3DRqNct4vM)](https://discord.gg/3DRqNct4vM)
