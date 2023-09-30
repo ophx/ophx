@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS
 - 🤔 I’m looking for help with frontend stuff
 - 💬 Ask me about NextJS & TailwindCSS
-- 📫 How to reach me: (@ophx)[https://discordid.netlify.app/?id=459738097622712320] on discord
+- 📫 How to reach me: [@ophx](https://discordid.netlify.app/?id=459738097622712320) on discord
 - ⚡ Fun fact: I never sleep... 👀
 
 ## 🚀 About Me
