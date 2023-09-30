@@ -14,4 +14,5 @@ I make websites lol
 HTML, CSS, Tailwind, NextJS, ReactJS, Python, Go, Java, TypeScript, JavaScript, C++, C#, SASS, MySQL, MongoDB
 
 
+## 📊 GitHub Stats
 ![ophx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophx&show_icons=true&theme=transparent)
