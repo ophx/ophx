@@ -14,4 +14,4 @@ HTML, CSS, Tailwind, NextJS, ReactJS, Python, Go, Java, TypeScript, JavaScript, 
 
 
 ## 📊 GitHub Stats
-![ophx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophx&show_icons=true&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api?username=ophx&show_icons=true&theme=transparent)
