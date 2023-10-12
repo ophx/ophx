@@ -1,5 +1,5 @@
 # Hi, I'm ophx! 👋
-- 🔭 I’m currently working on **NOTHING!**
+- 🔭 I’m currently working on [a open source image hosting service](https://github.com/ophx/imghost)
 - 🌱 I’m currently learning NextJS
 - 💬 Ask me about NextJS & TailwindCSS
 - 📫 How to reach me: [@ophx](https://discordid.netlify.app/?id=459738097622712320) on Discord
