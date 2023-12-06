@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I never sleep... 👀
 
 ## 🚀 About Me
-I've been making websites for 5 years and i'm still bad at it lol
+I've been making websites for 5+ years and i'm still bad at it lol
 
 ## 🛠 Skills
 HTML, CSS, Tailwind, ReactJS, Python, Go, Java, TypeScript, JavaScript, C++, C#, SASS, MySQL, MongoDB, NextJS
