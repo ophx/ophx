@@ -8,10 +8,10 @@
 I've been making websites for 5 years and i'm still bad at it lol
 
 ## 🛠 Skills
-HTML, CSS, Tailwind, ReactJS, Python, Go, Java, TypeScript, JavaScript, C++, C#, SASS, MySQL, MongoDB
+HTML, CSS, Tailwind, ReactJS, Python, Go, Java, TypeScript, JavaScript, C++, C#, SASS, MySQL, MongoDB, NextJS
 
 ## 🌱 Learning
-NextJS
+Vue because I am bored lol
 
 ## 📊 GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=ophx&show_icons=true&theme=transparent)
