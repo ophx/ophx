@@ -8,7 +8,7 @@
 I've been making websites for 5+ years and i'm still bad at it lol
 
 ## 🛠 Skills
-HTML, CSS, Tailwind, ReactJS, Python, Go, Java, TypeScript, JavaScript, C++, C#, SASS, MySQL, MongoDB, NextJS
+HTML, CSS, PHP, Tailwind, ReactJS, Python, Go, Java, TypeScript, JavaScript, C++, C#, SASS, MySQL, MongoDB, NextJS
 
 ## 🌱 Learning
 Vue because I am bored lol
